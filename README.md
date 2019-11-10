@@ -1,4 +1,4 @@
-# Scripts-for-Games
+# Scripts for Games
 Random scripts
 
 ## R6S AFK Renown Farming
